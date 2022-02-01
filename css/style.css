@@ -1,0 +1,239 @@
+/* matha section start  */
+body{
+    margin: 0;
+}
+.container{
+    width: 1100px;
+    margin: auto;
+}
+.pen{
+    display: flex;
+}
+.pen-left{
+    width: 50%;
+}
+.pen-right{
+    width: 50%;
+    text-align: right;
+}
+.pen-right img{
+    width: 60%;
+}
+.boi{
+    color: #ffb76f;
+}
+.pen-left a{
+    background: #ff5959;
+    padding: 10px 8px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    
+}
+.pen-left .mj{
+    border-left: 3px solid #ff5959 ;
+    padding-left: 5px;
+    font-family: 'Yeseva One', cursive;
+    font-size: 400;
+}
+.delet01{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.person02{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin-top: 25px;
+}
+/* matha section end  */
+/* buk section start  */
+.killme{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #143674;
+    text-align: center;
+    font-size: 48px;
+
+}
+.messi{
+    color: #baa58a;
+}
+.lesson-01{
+    display: flex;
+    justify-content: space-between;
+
+}
+.lesson-01 .lesson{
+    width: 32%;
+    box-sizing: border-box;
+    padding: 30px 20px;
+    border-radius: 15px;
+  
+}
+.lesson-01 .lesson img{
+    width: 144px;
+}
+.lesson01{
+    background: #edf5f6;
+
+}
+.lesson02{
+    background: #ffeeee;
+}
+.lesson03{
+    background: #fff4d6;
+}
+/* buk section end  */
+/* pet section start  */
+.pet-section{
+    display: flex;
+    margin-top: 50px;
+}
+.pet02{
+    width: 40%;
+
+}
+.pet05{
+    width: 60%;  
+}
+.pet02 img{
+width: 80%;
+}
+.pet05 h1{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+}
+.pet05 p{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.pet05 a{
+    background: #ff5959;
+    color: white;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+/* buk section end  */
+/* leg section start  */
+.leg-section{
+    display: flex;
+    margin-top: 50px;
+}
+.leg-vegitable{
+    width: 60%;
+}
+.leg-bhat{
+    width: 40%;
+}
+.leg-bhat img{
+    width: 80%;
+    text-align: right;  
+}
+.leg-vegitable h1{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+}
+.leg-vegitable p{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.leg-vegitable a{
+    background: #ff5959;
+    padding: 10px 8px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+/* leg section end  */
+/* end section start  */
+.archer{
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 48px;
+    border-top: 50px;
+}
+.gems{
+    color: #ffad5a;
+}
+.last-section{
+    display: flex;
+}
+.last05{
+
+    width: 40%;
+}
+.last09{
+    width: 60%;
+}
+.last05 img{
+    width: 60%;
+}
+.last09 h1{
+    color: #000000;
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.bilgates{
+    color: #f9af63;
+}
+.last09 p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    border-bottom: 15px;
+    margin-bottom: 30px;
+}
+.last09 a{
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    background: #ff5959;
+    border-radius: 5px;
+    font-family:'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 30px;
+}
+
+/* end section end  */
+/* footer secrion start  */
+.footer-section{
+    background: #000000;
+    text-align: center;
+}
+.footer-section h1{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    font-weight: 400;
+    color: #ffffff;
+    padding-top: 30px;
+}
+.footer-section .barbarian{
+    color: #ff5959;
+}
+.footer-section p{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 14px;
+    color: #bfc1c8;
+    padding-bottom: 40px;
+}
+
+/* footer secrion end  */
+
+
