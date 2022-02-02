@@ -20,11 +20,11 @@ body{
     width: 60%;
 }
 .boi{
-    color: #ffb76f;
+    color: #ffad5a;
 }
 .pen-left a{
     background: #ff5959;
-    padding: 10px 8px;
+    padding: 10px 15px;
     border-radius: 5px;
     color: white;
     text-decoration: none;
@@ -34,9 +34,10 @@ body{
 }
 .pen-left .mj{
     border-left: 3px solid #ff5959 ;
-    padding-left: 5px;
+    padding-left: 20px;
     font-family: 'Yeseva One', cursive;
-    font-size: 400;
+    font-size: 60px;
+    font-weight: 400;
 }
 .delet01{
     font-family: 'Poppins', sans-serif;
@@ -59,7 +60,7 @@ body{
 
 }
 .messi{
-    color: #baa58a;
+    color: #ffad5a;
 }
 .lesson-01{
     display: flex;
@@ -118,7 +119,7 @@ width: 80%;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
-    padding: 10px 5px;
+    padding: 10px 15px;
     border-radius: 5px;
 }
 /* buk section end  */
@@ -132,10 +133,11 @@ width: 80%;
 }
 .leg-bhat{
     width: 40%;
+    text-align: right;
 }
 .leg-bhat img{
     width: 80%;
-    text-align: right;  
+      
 }
 .leg-vegitable h1{
     font-weight: 700;
@@ -149,7 +151,7 @@ width: 80%;
 }
 .leg-vegitable a{
     background: #ff5959;
-    padding: 10px 8px;
+    padding: 10px 15px;
     border-radius: 5px;
     color: white;
     text-decoration: none;
