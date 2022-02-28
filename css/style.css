@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 .container{
-    width: 1100px;
+    width: 80%;
     margin: auto;
 }
 .pen{
@@ -238,4 +238,139 @@ width: 80%;
 
 /* footer secrion end  */
 
+/* media quarry */
+@media screen and (max-width: 700px){
+    .pen{
+        flex-direction: column;
+    }
+    .pen-left{
+        width: 100%;
 
+    }
+    .pen-left .mj{
+        font-size: 30px;
+        padding-left: 10px;
+    }
+    .delet01{
+        font-size: 13px;
+
+    }
+    .pen-left a{
+        padding: 5px 10px;
+        font-size: 13px;
+    }
+    .person02{
+        font-size: 13px;
+    }
+    .pen-right{
+        width: 100%;
+    }
+    .pen-right{
+        text-align: center;
+
+    }
+    /* matha section end */
+    .killme{
+        font-size: 30px;
+    }
+    .lesson-01{
+
+    
+        flex-direction: column;
+
+       
+    }
+    .lesson{
+        width: 90% !important;
+        margin-bottom: 20px;
+        
+    }
+
+ 
+    /* pet section start  */
+    .pet-section{
+        flex-direction: column;
+    }
+    .pet02{
+        width: 80%;
+    }
+    .pet02 img{
+        width: 100%;
+    }
+    .pet05{
+        width: 80%;
+    }
+    .pet05 h1{
+        font-size: 30px;
+    }
+    .pet05 p{
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+    .pet05 a{
+        font-size: 8px;
+        padding: 5px 9px;
+        
+    }
+    /* leg section start  */
+    .leg-section{
+    flex-direction: column;
+        }
+    .leg-bhat{  
+    width: 80%;
+    }
+    .leg-bhat img{
+    width: 100%;
+    margin-top: 30px;
+    }
+    .leg-vegitable{
+    width: 80%;
+    }
+    .leg-vegitable h1{
+    font-size: 30px;
+    }
+    .leg-vegitable p{
+    font-size: 13px;
+    margin-bottom: 20px;
+    }
+    .leg-vegitable a{
+    font-size: 8px;
+    padding: 5px 9px;
+   }
+/* last section start  */
+.archer{
+    font-size: 30px;
+}
+.last-section{
+    flex-direction: column;
+        }
+    .last05{  
+    width: 80%;
+    }
+    .last05 img{
+    width: 100%;
+    margin-top: 30px;
+    }
+    .last09{
+    width: 80%;
+    }
+    .last09 h1{
+    font-size: 30px;
+    }
+    .last09 p{
+    font-size: 13px;
+    margin-bottom: 20px;
+    }
+    .last09 a{
+    font-size: 10px;
+    padding: 5px 12px;
+   }
+   /* footer section start  */
+   .footer-section{}
+   .footer-section h1{
+       font-size: 20px;
+   }
+   .footer-section p{
+       font-size: 13px;
+   }
+}
